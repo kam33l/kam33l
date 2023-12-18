@@ -1,4 +1,4 @@
-![](main.png)
+![](main2.png)
 ## 🌐 Socials:
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-0A0A23.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.freecodecamp.org/kam33l)
 [![frontendmentor](https://img.shields.io/badge/frontend%20mentor-3F54A3.svg?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/kam33l)
